@@ -1,0 +1,10 @@
+img{
+    width:300px;
+    border:2px solid blue;
+    border-radius:20% 50% 70% 80%;
+    border-bottom-left-radius: 50%;
+}
+div {
+    position:relative;
+    top:100px;
+}
